@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    <h1>ランダムなメッセージa</h1>
+    <h1>ランダムなメッセージ</h1>
     <h1>{{$key}}</h1>
 </body>
 </html>
