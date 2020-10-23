@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -10,4 +10,4 @@
     <h1>ランダムなメッセージab</h1>
     <h1>{{$key}}</h1>
 </body>
-</html>
+</html> --}}

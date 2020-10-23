@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -10,4 +10,4 @@
     <h1>自由なメッセージ</h1>
     <h2>{{$freeword2}}</h2>
 </body>
-</html>
+</html> --}}

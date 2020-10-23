@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -10,4 +10,4 @@
     <h1>{{$greeting2}}</h1>
     <h2>{{$greeting1}}</h2>
 </body>
-</html>
+</html> --}}

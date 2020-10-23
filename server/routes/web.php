@@ -17,9 +17,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('comments/freeword/{freeword2}/', 'GreetingController@fw');
-Route::get('comments/random/', 'GreetingController@rand');
-Route::get('comments/{greeting}/', 'GreetingController@hello');
+// Route::get('comments/freeword/{freeword2}/', 'GreetingController@fw');
+// Route::get('comments/random/', 'GreetingController@rand');
+// Route::get('comments/{greeting}/', 'GreetingController@hello');
 
 
 
